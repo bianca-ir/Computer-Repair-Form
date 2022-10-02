@@ -1,0 +1,4 @@
+3
+0;John Doe;Street A no. 32;777888;HP G250;14-09-2022;HDD change.;Finished
+1;Alice Smith;Main Street, no. 34;222999;Macbook Pro;14-09-2022;Broken display.;Finished
+2;Andrew Smith;Main Street, no. 98;111888;HP Elitebook 840;14-09-2022;Broken display. ;Finished

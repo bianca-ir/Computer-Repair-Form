@@ -1,0 +1,4 @@
+8
+5;0;HDD changed.;250.0;14-09-2022;A.
+6;1;Broken display.;300.0;14-09-2022;B
+7;2;Changed display.;300.0;14-09-2022;C
